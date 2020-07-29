@@ -14,7 +14,7 @@ A repository of resources for learning the R programming language for statistica
 
 ### Free eBooks/PDFs
 - <a href="http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf">The Undergraduate Guide to R</a> by Trevor Martin - A beginner‘s introduction to the R programming language.
-- <a href="https://link.springer.com/book/10.1007/978-0-387-93837-0">A Beginner’s Guide to R by Alain F. ZuurElena N. IenoErik H. W. G. Meesters (Springer).
+- <a href="https://link.springer.com/book/10.1007/978-0-387-93837-0">A Beginner’s Guide to R</a> by Alain F. Zuur, Elena N. Ieno, Erik H. W. G. Meesters (Springer).
 
 ### Websites
 - <a href="http://personality-project.org/r/r.guide.html">Using R for psychological research</a>
