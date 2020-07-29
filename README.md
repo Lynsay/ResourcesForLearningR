@@ -1,12 +1,16 @@
 # Resources For Learning R
-A repository of resources for learning the R programming language.
+A repository of resources for learning the R programming language for statistical analysis.
 
 ## Resources
 
 ### Software
+
+#### Windows/MacOS/Linux
 - <a href="https://www.r-project.org/">Official R software environment</a> - The R Project for Statistical Computing.
 - <a href="https://rstudio.com/products/rstudio/">RStudio</a> - IDE for working with R.
-- <a href="https://mac.r-project.org/#other">RSwitch</a> - GUI for switching between multiple versions of R installed on a machine (MacOS only).
+
+##### MacOS
+- <a href="https://mac.r-project.org/#other">RSwitch</a> - GUI for switching between multiple versions of R installed on a machine.
 
 ### Books
 
