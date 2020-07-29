@@ -19,6 +19,10 @@ A repository of resources for learning the R programming language for statistica
 ### Websites
 - <a href="http://personality-project.org/r/r.guide.html">Using R for psychological research</a>
 
+### Lecture Notes/Tutorials
+- <a href="http://www.stats.ox.ac.uk/~evans/Rprog/LectureNotes.pdf">R Programming</a> by Robin Evans (University of Oxford)
+- <a href="https://strata.uga.edu/software/pdf/Rtutorial.pdf">A Short R Tutorial</a> by Steven M. Holland (University of Georgia)
+
 ### Books
 - Statistical Analysis with R for Dummies by Joseph Schmuller (2017).
 
