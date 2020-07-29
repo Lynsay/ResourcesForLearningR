@@ -12,11 +12,13 @@ A repository of resources for learning the R programming language for statistica
 ##### MacOS
 - <a href="https://mac.r-project.org/#other">RSwitch</a> - GUI for switching between multiple versions of R installed on a machine.
 
-### Books
-
-### eBooks
+### eBooks and PDFs
 
 ### Websites
+- <a href="http://personality-project.org/r/r.guide.html">Using R for psychological research</a>
+
+### Books
+- Statistical Analysis with R for Dummies by Joseph Schmuller (2017).
 
 ## Contribute
 Details to follow
