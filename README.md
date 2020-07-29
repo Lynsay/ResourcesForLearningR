@@ -12,7 +12,8 @@ A repository of resources for learning the R programming language for statistica
 ##### MacOS
 - <a href="https://mac.r-project.org/#other">RSwitch</a> - GUI for switching between multiple versions of R installed on a machine.
 
-### eBooks and PDFs
+### Free eBooks/PDFs
+- <a href="http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf">The Undergraduate Guide to R</a> by Trevor Martin - A beginner‘s introduction to the R programming language.
 
 ### Websites
 - <a href="http://personality-project.org/r/r.guide.html">Using R for psychological research</a>
