@@ -1,5 +1,5 @@
 # Resources For Learning R
-A repository for learning the R programming language.
+A repository of resources for learning the R programming language.
 
 ## Resources
 
